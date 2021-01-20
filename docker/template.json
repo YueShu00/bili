@@ -1,9 +1,9 @@
 ﻿{
   //Cookie信息，取自浏览器，必填，优先级低于命令行中的配置值
   "BiliBiliCookie": {
-    "UserId": "", //请填入你的DEDEUSERID（重要！！！）
-    "SessData": "", //请填入你的SESSDATA（重要！！！）
-    "BiliJct": "" //请填入你的BILI_JCT（重要！！！）
+    "UserId": "5786168", //请填入你的DEDEUSERID（重要！！！）
+    "SessData": "2f9c8134%2C1621156681%2Cd5d7f*b1", //请填入你的SESSDATA（重要！！！）
+    "BiliJct": 6495773c9235bef9c8a92cec4939e982"" //请填入你的BILI_JCT（重要！！！）
   },
 
   //程序自定义个性化配置
@@ -24,7 +24,7 @@
 
   //微信推送
   "Push": {
-    "PushScKey": "" //请填入你的Server酱微信推送的SCKEY（http://sc.ftqq.com/3.version）
+    "PushScKey": "SCU152761T529ddeb6baae937cb7c9af82b3e4213e60083e1fc3602" //请填入你的Server酱微信推送的SCKEY（http://sc.ftqq.com/3.version）
   },
 
   //日志
